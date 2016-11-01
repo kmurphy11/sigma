@@ -1,0 +1,11 @@
+#sigma-parent {
+  width: 500px;
+  height: 500px;
+  position: relative;
+}    
+
+#sigma-example {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
